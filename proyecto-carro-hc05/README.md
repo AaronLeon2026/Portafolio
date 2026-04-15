@@ -33,6 +33,15 @@ El módulo HC-05 recibe señales desde el celular y el Arduino controla los moto
 - J → Atrás derecha
 
 - Y → Bocina
+  
+- ## 📱 Aplicación usada
+
+Para controlar el carro se utilizó la aplicación **BT Car Controller**, la cual permite enviar comandos por Bluetooth desde el celular.
+La aplicación se conecta al módulo HC-05 mediante Bluetooth y envía los comandos al Arduino.
+La clave de vinculacion es **1234** o **0000**
+
+### 📷 Interfaz de la app
+![App](app-bt-controller.jpeg)
 
 ## 📷 Evidencia
 ![Carro](Programacion.jpeg)
