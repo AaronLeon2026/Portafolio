@@ -35,7 +35,7 @@ El módulo HC-05 recibe señales desde el celular y el Arduino controla los moto
 - Y → Bocina
 
 ## 📷 Evidencia
-![Carro]()
+![Carro](Programacion.jpeg)
 
 ## 🧠 Aprendizaje
 - Comunicación Bluetooth
