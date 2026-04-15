@@ -19,8 +19,23 @@ Controlar un carro desde el celular mediante comandos Bluetooth.
 ## ⚙️ Funcionamiento
 El módulo HC-05 recibe señales desde el celular y el Arduino controla los motores según los comandos.
 
+## 🎮 Controles
+
+- F → Adelante
+- B → Atrás
+- L → Izquierda
+- R → Derecha
+- S → Stop
+
+- G → Adelante izquierda
+- H → Adelante derecha
+- I → Atrás izquierda
+- J → Atrás derecha
+
+- Y → Bocina
+
 ## 📷 Evidencia
-(Aquí luego pondré fotos o videos)
+![Carro](Programación.jpeg)
 
 ## 🧠 Aprendizaje
 - Comunicación Bluetooth
