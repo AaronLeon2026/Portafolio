@@ -1,6 +1,6 @@
 # 📁 Portafolio de Proyectos
 
-¡Bienvenido a mi portafolio!
+¡Bienvenido a mi portafolio de proyectos!
 
 En este repositorio presento algunos de los proyectos que he desarrollado durante mi formación en Ingeniería en Telematica. Cada proyecto incluye su documentación, metodología, resultados y, cuando aplica, el código fuente.
 
