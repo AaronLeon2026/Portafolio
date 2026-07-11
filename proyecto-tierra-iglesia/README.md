@@ -140,7 +140,7 @@ Estas condiciones justificaron la instalación del regulador automático de volt
 
 ### 5. Regulador automático de voltaje CDP R-AVR 5008
 
-![Regulador](images/05-regulador-cdp-r-avr-5008.jpg)
+![Regulador](images/05-regulador-cdp-r-avr-5008.jpeg)
 
 **Descripción:** Se instaló un regulador automático de voltaje CDP R-AVR 5008 para compensar las variaciones de tensión presentes en la red eléctrica y proteger los equipos de audio.
 
