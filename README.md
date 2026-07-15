@@ -28,6 +28,8 @@ Desarrollo de un prototipo para el aprovechamiento de energía mecánica utiliza
 
 📁 Carpeta: `Proyecto-EcoStep`
 
+---
+
 ### 🤖 Proyectos en desarrollo
 
 - Robot Mini Sumo ESP32
