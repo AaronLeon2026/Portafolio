@@ -140,7 +140,7 @@ Aunque la energía obtenida es limitada, el prototipo demuestra la viabilidad de
 
 ### 4. Primera presentación
 
-![Presentación](images/04-presentacion-prototipo.jpeg)
+![Presentación](images/04-presentacion-prototipo-inicial.jpeg)
 
 **Descripción:** Presentación del primer prototipo funcional.
 
