@@ -22,10 +22,15 @@ Diseño y construcción de un vehículo controlado mediante Bluetooth utilizando
 
 ---
 
+## 🌱 Proyecto: EcoStep - Sistema de Generación de Energía mediante Pisadas
+
+Desarrollo de un prototipo para el aprovechamiento de energía mecánica utilizando sensores piezoeléctricos, enfocado en la generación y almacenamiento de energía eléctrica de baja potencia.
+
+📁 Carpeta: `Proyecto-EcoStep`
+
 ### 🤖 Proyectos en desarrollo
 
 - Robot Mini Sumo ESP32
-- Piso piezoeléctrico para generación de energía
 
 ---
 
